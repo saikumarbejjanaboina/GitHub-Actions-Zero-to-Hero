@@ -1,5 +1,5 @@
 # app.py
-# My first GitHub Actions
+# My first GitHub Actions...
 def add(a, b):
     return a + b
 
